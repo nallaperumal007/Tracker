@@ -1,4 +1,3 @@
-Here’s a **single `README.md` file** for your **Role-Based Task Tracker** PHP project. It assumes a basic local XAMPP setup with MySQL.
 
 ---
 
@@ -79,9 +78,3 @@ CREATE TABLE `tasks` (
 
 This project is open-source and available for any personal or educational use.
 
-```
-
----
-
-Let me know if you'd like this README saved in a downloadable file or want to split the logic/UI into multiple PHP files for better organization.
-```
